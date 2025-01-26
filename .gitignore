@@ -1,0 +1,8 @@
+test*
+a.out
+
+bin/*
+!bin/.gitkeep
+
+obj/*
+!obj/.gitkeep
